@@ -1,0 +1,15 @@
+D:\Rennan\Repos\CsharpExercises\ConsoleApp\bin\Debug\net10.0\ConsoleApp.exe
+D:\Rennan\Repos\CsharpExercises\ConsoleApp\bin\Debug\net10.0\ConsoleApp.deps.json
+D:\Rennan\Repos\CsharpExercises\ConsoleApp\bin\Debug\net10.0\ConsoleApp.runtimeconfig.json
+D:\Rennan\Repos\CsharpExercises\ConsoleApp\bin\Debug\net10.0\ConsoleApp.dll
+D:\Rennan\Repos\CsharpExercises\ConsoleApp\bin\Debug\net10.0\ConsoleApp.pdb
+D:\Rennan\Repos\CsharpExercises\ConsoleApp\obj\Debug\net10.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rennan\Repos\CsharpExercises\ConsoleApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\Rennan\Repos\CsharpExercises\ConsoleApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfo.cs
+D:\Rennan\Repos\CsharpExercises\ConsoleApp\obj\Debug\net10.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Rennan\Repos\CsharpExercises\ConsoleApp\obj\Debug\net10.0\ConsoleApp.sourcelink.json
+D:\Rennan\Repos\CsharpExercises\ConsoleApp\obj\Debug\net10.0\ConsoleApp.dll
+D:\Rennan\Repos\CsharpExercises\ConsoleApp\obj\Debug\net10.0\refint\ConsoleApp.dll
+D:\Rennan\Repos\CsharpExercises\ConsoleApp\obj\Debug\net10.0\ConsoleApp.pdb
+D:\Rennan\Repos\CsharpExercises\ConsoleApp\obj\Debug\net10.0\ConsoleApp.genruntimeconfig.cache
+D:\Rennan\Repos\CsharpExercises\ConsoleApp\obj\Debug\net10.0\ref\ConsoleApp.dll

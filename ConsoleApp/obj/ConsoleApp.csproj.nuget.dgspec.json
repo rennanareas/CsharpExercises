@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Rennan\\Repos\\CsharpExercises\\ConsoleApp\\ConsoleApp.csproj": {}
+    "D:\\Rennan\\Repos\\CsharpExercises\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "d:\\Rennan\\Repos\\CsharpExercises\\ConsoleApp\\ConsoleApp.csproj": {
+    "D:\\Rennan\\Repos\\CsharpExercises\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Rennan\\Repos\\CsharpExercises\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "D:\\Rennan\\Repos\\CsharpExercises\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "d:\\Rennan\\Repos\\CsharpExercises\\ConsoleApp\\ConsoleApp.csproj",
+        "projectPath": "D:\\Rennan\\Repos\\CsharpExercises\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "d:\\Rennan\\Repos\\CsharpExercises\\ConsoleApp\\obj\\",
+        "outputPath": "D:\\Rennan\\Repos\\CsharpExercises\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
