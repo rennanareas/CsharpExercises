@@ -13,7 +13,7 @@ public static class Ex01_AgeCalculator
 {
     public static void Run()
     {
-        Console.Write("Enter your date of birth (dd/MM/yyyy): ");
+        Console.Write("Digite sua data de aniversário (dd/MM/yyyy): ");
         string? input = Console.ReadLine();
 
         DateOnly birthDate = DateOnly.ParseExact(
@@ -26,12 +26,11 @@ public static class Ex01_AgeCalculator
 
         int age = today.Year - birthDate.Year;
 
-        // Subtract 1 if the birthday hasn't occurred yet this year
         if (today.Month < birthDate.Month || (today.Month == birthDate.Month && today.Day < birthDate.Day))
         {
             age--;
         }
 
-        Console.WriteLine($"You are {age} years old.");
+        Console.WriteLine($"Você tem {age} anos de idade.");
     }
 }
