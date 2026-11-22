@@ -1,8 +1,5 @@
 /*
-Data de nascimento e idade aproximada
-Peça ao usuário (ou defina em variáveis) uma data de nascimento no formato dd/MM/yyyy usando DateOnly (ou DateTime.ParseExact). Calcule quantos anos a pessoa completou até a data atual (DateOnly.FromDateTime(DateTime.Today)).
-
-Dica: Lembre-se de ajustar caso o aniversário ainda não tenha ocorrido no ano atual.
+Encontrar a próxima sexta-feira 13 e calcular quantos dias faltam.
 */
 
 using System.Globalization;
